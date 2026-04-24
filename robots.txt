@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitchen-remodel-contractor-memphis-tn.netlify.app/sitemap.xml
